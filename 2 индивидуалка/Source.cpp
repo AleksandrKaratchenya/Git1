@@ -37,6 +37,7 @@ int main()
 		 cout << endl;
 		 cout << "Norm  2  " << endl;
 		 cout << Norm(matrix2, n);
+		 cout << "Super";
 	system("pause");
 	return 0;
 }
